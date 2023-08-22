@@ -4,9 +4,9 @@
 I'm Hardik, a coding enthusiast from India . My passions revolve around C/C++, Programming, Data Structures and Algorithms, and software development . I love diving into new technologies and contributing to exciting projects.
 
 - 🌍 Location: India
-- ✉️ Email: hardik21673@gmail.com(mailto:hardik21673@gmail.com)
-- 🚀 GitHub: xHARDIKx(http://www.github.com/xHARDIKx)
-- 👽 Connect with me: Linktree](https://linktr.ee/hardiko.o
+- ✉️ Email: hardik21673@gmail.com
+- 🚀 GitHub: xHARDIKx
+- 👽 Connect with me: (https://linktr.ee/hardiko.o)
 - ⚡ Fun fact: gym freak and a big fan of anime 💪🏋️
 
 ## Skills
