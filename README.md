@@ -1,7 +1,7 @@
 # Hello there, I'm Hardik! 👋
 
 ## About Me
-I'm Hardik, a coding enthusiast from India . My passions revolve around C/C++, Programming, Data Structures and Algorithms, and software development . I love diving into new technologies and contributing to exciting projects.
+I'm Hardik, a coding enthusiast from India. My passions revolve around C/C++, Programming, Data Structures and Algorithms, and software development. I love diving into new technologies and contributing to exciting projects.
 
 - 🌍 Location: India
 - ✉️ Email:           [hardik21673@gmail.com](mailto:hardik21673@gmail.com)
