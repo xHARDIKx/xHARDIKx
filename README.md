@@ -52,3 +52,5 @@ Check out some of my noteworthy repositories:
 
 [![JAVA-COURSE Repository](https://github-readme-stats.vercel.app/api/pin/?username=xHARDIKx&repo=JAVA-COURSE&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/xHARDIKx/JAVA-COURSE)
 [![JAVA-PRACTICE-PROGRAMS Repository](https://github-readme-stats.vercel.app/api/pin/?username=xHARDIKx&repo=JAVA-PRACTICE-PROGRAMS&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/xHARDIKx/JAVA-PRACTICE-PROGRAMS)
+[![C-plus-plus-COURSE Repository](https://github-readme-stats.vercel.app/api/pin/?username=xHARDIKx&repo=C-plus-plus-COURSE&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/xHARDIKx/C-plus-plus-COURSE)
+
