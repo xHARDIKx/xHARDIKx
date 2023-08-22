@@ -22,7 +22,7 @@ Let's connect on different platforms:
 
 - GitHub: [@xHARDIKx](https://www.github.com/xHARDIKx)
 - Instagram: [@thehardik_official](http://www.instagram.com/thehardik_official)
-- LinkedIn: [hardik-4701a0148] (https://www.linkedin.com/in/hardik-4701a0148/) 
+- LinkedIn:[hardik-4701a0148](https://www.linkedin.com/in/hardik-4701a0148) 
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHARDIKx&show_icons=true&count_private=true&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&show_icons=true)
