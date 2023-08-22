@@ -42,7 +42,8 @@ Let's connect on different platforms:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xHARDIKx&stroke=ffffff&background=0a0c10&ring=1f8ecd&fire=1f8ecd&currStreakNum=ffffff&currStreakLabel=1f8ecd&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=xHARDIKx&bg_color=0a0c10&color=ffffff&line=1f8ecd&point=ffffff&area_color=0a0c10&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+## GitHub Activity
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=xHARDIKx)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHARDIKx&langs_count=10&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en&custom_title=Top%20Languages)
