@@ -4,9 +4,9 @@
 I'm Hardik, a coding enthusiast from India . My passions revolve around C/C++, Programming, Data Structures and Algorithms, and software development . I love diving into new technologies and contributing to exciting projects.
 
 - 🌍 Location: India
-- ✉️ Email: hardik21673@gmail.com
-- 🚀 GitHub:[xHARDIKx](http://www.github.com/xHARDIKx)
-- 👽 Connect with me:[hardiko.o](https://linktr.ee/hardiko.o)
+- ✉️ Email:           [hardik21673@gmail.com](mailto:hardik21673@gmail.com)
+- 🚀 GitHub:          [xHARDIKx](http://www.github.com/xHARDIKx)
+- 👽 Connect with me: [hardiko.o](https://linktr.ee/hardiko.o)
 - ⚡ Fun fact: gym freak and a big fan of anime 💪🏋️
 
 ## Skills
@@ -22,7 +22,11 @@ Let's connect on different platforms:
 
 - GitHub: [@xHARDIKx](https://www.github.com/xHARDIKx)
 - Instagram: [@thehardik_official](http://www.instagram.com/thehardik_official)
-- LinkedIn:[hardik-4701a0148](https://www.linkedin.com/in/hardik-4701a0148) 
+- LinkedIn:[hardik-4701a0148](https://www.linkedin.com/in/hardik-4701a0148)
+
+- [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />](https://www.github.com/xHARDIKx)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />](http://www.instagram.com/thehardik_official)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />](https://www.linkedin.com/in/hardik-4701a0148)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHARDIKx&show_icons=true&count_private=true&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&show_icons=true)
