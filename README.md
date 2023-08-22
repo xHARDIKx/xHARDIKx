@@ -27,9 +27,9 @@ I'm Hardik, a coding enthusiast from India . My passions revolve around C/C++, P
 ## Socials
 Let's connect on different platforms:
 
-- GitHub: [@xHARDIKx](https://www.github.com/xHARDIKx)
-- Instagram: [@thehardik_official](http://www.instagram.com/thehardik_official)
-- LinkedIn:[hardik-4701a0148](https://www.linkedin.com/in/hardik-4701a0148)
+- GitHub:      [@xHARDIKx](https://www.github.com/xHARDIKx)
+- Instagram:   [@thehardik_official](http://www.instagram.com/thehardik_official)
+- LinkedIn:    [hardik-4701a0148](https://www.linkedin.com/in/hardik-4701a0148)
 
 - [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />](https://www.github.com/xHARDIKx)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />](http://www.instagram.com/thehardik_official)
